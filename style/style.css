@@ -102,6 +102,13 @@ body {
   justify-content: center;
 }
 
+.infr-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .bac {
   background: rebeccapurple;
 }
